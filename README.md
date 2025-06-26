@@ -1,7 +1,7 @@
 # Chat-Bot-Python-Opp
 A fun and interactive OOP-based chatbot system built in Python.
 
-🔹 Features
+Features
 Four distinct personality bots – HappyBot, SadBot, BoredBot, and SarcasticBot — each with unique tone and style.
 
 Dynamic mood system – bots randomly change mood each time they respond; all recent moods are tracked in a mood_history list (up to latest five).
